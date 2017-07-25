@@ -1,4 +1,5 @@
 require 'new_relic/control'
+require 'new_relic/agent/datastores'
 
 DependencyDetection.defer do
   @name = :presto
