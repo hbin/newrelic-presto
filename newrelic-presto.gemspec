@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Huang Bin']
   spec.email         = ['huangbin88@foxmail.com']
 
-  spec.summary       = 'Presto Instrumentation for NewRelic'
+  spec.summary       = 'Presto NewRelic'
   spec.description   = 'Presto Instrumentation for NewRelic'
   spec.homepage      = 'https://github.com/hbin/newrelic-presto'
   spec.license       = 'MIT'
